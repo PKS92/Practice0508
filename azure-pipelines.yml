@@ -7,7 +7,7 @@ trigger:
 - none
 
 pool:
-  name: agentfail
+  name: Default
 
 steps:
 - script: echo Hello, world!
